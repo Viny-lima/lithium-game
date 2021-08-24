@@ -8,7 +8,7 @@ _https://www.instagram.com/vinylima_7/_
 
 ###### USO DE CÓDIGO SOMENTE PARA ESTUDO.
 
-=======================================================================================
+=======================================================================
  
 _IFPE - CAMPUS PAULISTA_Final project of the introduction to programming course - Python language_
 
